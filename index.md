@@ -10,3 +10,8 @@
 <h3 align="center">• ⚡ KeyBase: https://keybase.io/d1snln</h3>
 <h3 align="center">• ⚡ EMail: d1snin@aol.com</h3>
 <h3 align="center">• ⚡ GitHub: https://github.com/d1snin</h3>
+
+<h3 align="center">Me:</h3>
+<div align="center">
+  <img src="https://pasteboard.co/JM5WyzH2.jpg" alt="header"/>
+</div>
