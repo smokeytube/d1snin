@@ -13,5 +13,5 @@
 
 <h3 align="center">Me:</h3>
 <div align="center">
-  <img src="https://s3-eu-west-1.amazonaws.com/cdn.pbrd.co/images/JM5WyzH2.jpg?o=1"/>
+  <img src="https://cdn.discordapp.com/attachments/634010567107149824/805202962506973225/image0.jpg"/>
 </div>
