@@ -8,4 +8,3 @@
 <h3 align="center">• ⚡ Discord: DisNin#3007</h3>
 <h3 align="center">• ⚡ KeyBase: https://keybase.io/d1snln</h3>
 <h3 align="center">• ⚡ EMail: d1snin@aol.com</h3>
-![ez](https://github-readme-stats.vercel.app/api?username=d1snin&show_icons=true&theme=dark)
