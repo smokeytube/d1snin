@@ -1,6 +1,6 @@
-<h1 align="center"> 👋 Hi there! 👋 </h1>
+<h2 align="center"> 👋 Hi there! 👋 </h2>
 <div align="center">
-<h2 align="center">I`m d1snin</h2>
+<h3 align="center">I`m d1snin</h3>
 <h2 align="center">⭐ What am I doing ⭐</h2>
 <p align="center">
   <samp>At the moment I am studying the Java language and in the future I plan to study the Kotlin language, today I have a lot of experience in using Linux. I would be happy to contribute with your small Java project, you can find me and contact me at the contacts below
