@@ -13,5 +13,5 @@
 
 <h3 align="center">Me:</h3>
 <div align="center">
-  <img src="https://pasteboard.co/JM5WyzH2.jpg" alt="header"/>
+  <img src="https://pasteboard.co/JM5WyzH2.jpg"/>
 </div>
