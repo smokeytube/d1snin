@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/d1snln
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://d1snin.xyz
+  * I am d1snln (https://keybase.io/d1snln) on keybase.
+  * I have a public key ASAJXON-aFN2RNAmfv8h8ZhQMk01FuPZE5IxKqU2FzxxuAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d774e0b1c5c44e900e1408b544635f839f71bbc6e8d98b69c86de6aaea32e8fd0a",
+      "host": "keybase.io",
+      "kid": "0120095ce37e68537644d0267eff21f19850324d3516e3d91392312aa536173c71b80a",
+      "uid": "5c6a14f525d755b00e78c1cddbc62919",
+      "username": "d1snln"
+    },
+    "merkle_root": {
+      "ctime": 1612083320,
+      "hash": "2d0572502e383a6255f357f5b236198520859d39c3d6c41780a73997ed2922e348669525702e5fb84fa5a235e69b6dc774cd8e3aa9f9027c495dfaf75f43c1f9",
+      "hash_meta": "c4a9a4051fbb1f2ed53d70df5b2cb5fc0abbcc1bd309dddf848020f8f4e1b0c6",
+      "seqno": 18963670
+    },
+    "service": {
+      "entropy": "frmX/nD1WnRtTQJFbBefDlGk",
+      "hostname": "d1snin.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1612083337,
+  "expire_in": 504576000,
+  "prev": "93a1f54d876a6e710cfd4fac02df5ff93582fc4c30512887ec4b47801969d8af",
+  "seqno": 51,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCVzjfmhTdkTQJn7/IfGYUDJNNRbj2ROSMSqlNhc8cbgKp3BheWxvYWTESpcCM8Qgk6H1TYdqbnEM/U+sAt9f+TWC/EwwUSiH7EtHgBlp2K/EIMnVOVRx8rNpN1C6qb50Q//fZ391MDjmUPR8vPHJj/c9AgHCo3NpZ8RAtINud/WwJNm6J2cFXwn+CfIDfqJe/AJsyiW+kD+zQif3vWQazpgvHxMFZvI+4c5p0eyMvT0G0CJ1hjjkWiCfCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIODbpcgleQMeh/CVsmC6JwqmGW0u5lj75KIEi4Vwm2WMo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/d1snln
+
+==================================================================
