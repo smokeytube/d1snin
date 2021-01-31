@@ -7,11 +7,14 @@
   <samp>At the moment I am studying the Java language and in the future I plan to study the Kotlin language, today I have a lot of experience in using Linux. I would be happy to contribute with your small Java project, you can find me and contact me at the contacts below
   </samp>
 <h3 align="center">• ⚡ Discord: DisNin#3007</h3>
-<h3 align="center">• ⚡ KeyBase: https://keybase.io/d1snln</h3>
-<h3 align="center">• ⚡ EMail: d1snin@aol.com</h3>
-<h3 align="center">• ⚡ GitHub: https://github.com/d1snin</h3>
+<h3 align="center">• ⚡ KeyBase: ![Click](https://keybase.io/d1snln)</h3>
+<h3 align="center">• ⚡ E-Mail: d1snin@aol.com</h3>
+<h3 align="center">• ⚡ GitHub: ![Click](https://github.com/d1snin)</h3>
 
 <h3 align="center">Me:</h3>
 <div align="center">
   <img src="https://cdn.discordapp.com/attachments/634010567107149824/805202962506973225/image0.jpg"/>
 </div>
+
+
+hehehe dewy look i skid your site heheheh
