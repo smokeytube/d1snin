@@ -1,15 +1,9 @@
 * {
     background-color: black;
-    color: black;
+    color: white;
     font-family: monospace;
     user-select: none;
 }
 .name {
 	color: green;
-}
-h2 {
-	color: white;
-}
-h3 {
-	color: white;
 }
