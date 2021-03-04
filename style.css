@@ -4,3 +4,6 @@
     font-family: monospace;
     user-select: none;
 }
+.name {
+	color: green;
+}
