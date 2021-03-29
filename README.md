@@ -6,6 +6,7 @@
 | Discord - DisNin#3007
 | E-Mail - d1snin@aol.com 
 | Keybase: https://keybase.io/d1snln
+| Matrix: @disnin:matrix.org
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=d1snin&show_icons=true&theme=dark)
