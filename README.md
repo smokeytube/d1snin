@@ -4,13 +4,13 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: 
 
-| Discord - d1snin#3007
+Discord - d1snin#3007
 
-| E-Mail - d1snin@aol.com 
+E-Mail - d1snin@aol.com 
 
-| Keybase: https://keybase.io/d1snln
+Keybase: https://keybase.io/d1snln
 
-| Matrix: @disnin:matrix.org
+Matrix: @disnin:matrix.org
 
 
 
