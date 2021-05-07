@@ -12,10 +12,7 @@ Keybase: https://keybase.io/d1snln
 
 Matrix: @disnin:matrix.org
 
-
-
-![stats](https://github-readme-stats.vercel.app/api?username=d1snin&show_icons=true&theme=dark)
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d1snin&theme=dark)
+![Metrics](https://metrics.lecoq.io/d1snin?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&lines=1&activity=1&projects=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&stars.limit=4&projects.limit=4&projects.descriptions=false&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Europe%2FMoscow)
 
 ![Visitor Count](https://profile-counter.glitch.me/d1snin/count.svg)
 
