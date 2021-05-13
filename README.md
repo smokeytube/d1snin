@@ -12,6 +12,30 @@
 
 **Matrix:** *@disnin:matrix.org*
 
+```java
+package xyz.d1snin;
+
+import static xyz.d1snin.Action.*;
+
+public class Disnin extends Human<Developer> {
+
+  public Disnin() {
+    this.name = "Mikhail Koshkin";
+    this.skills = new String[] {"Java Core", "JavaFX", "MySQL", "SQLite", "PostgreSQL"};
+    this.location = "Volgodonsk, Russian Federation";
+    this.email = "d1snin@aоl.com";
+  }
+
+  @Override
+  protected void life() {
+    while (true) {
+      code();
+      sleep();
+    }
+  }
+}
+```
+
 ![Metrics](https://metrics.lecoq.io/d1snin?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&lines=1&activity=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.threshold=0%25&introduction.title=true&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&config.timezone=Europe%2FMoscow)
 
 ![Visitor Count](https://profile-counter.glitch.me/d1snin/count.svg)
