@@ -21,7 +21,7 @@ public class Disnin extends Human<Developer> {
 
   public Disnin() {
     this.name = "Mikhail Koshkin";
-    this.skills = new String[] {"Java Core", "JavaFX", "MySQL", "SQLite", "PostgreSQL"};
+    this.skills = new String[] {"Java Core", "SQL", "MongoDB"};
     this.location = "Volgodonsk, Russian Federation";
     this.email = "d1snin@aоl.com";
   }
