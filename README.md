@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Kotlin.
 - 💬 Ask me about anything
 - 📫 How to reach me: 
 
