@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java and Kotlin.
-- 💬 Ask me about anything
-- 📫 How to reach me: 
+- How to reach me: 
 
 **Discord:** *d1snin#3007*
 
