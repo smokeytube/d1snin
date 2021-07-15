@@ -1,6 +1,4 @@
-===================
 Hi there, im d1snin
-===================
 
 I respond the fastest on these services:
 Discord: d1snin#3007
