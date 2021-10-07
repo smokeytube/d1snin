@@ -8,3 +8,7 @@ Hello, please use the following services to contact me.
 | `telegram (the fastest response)` | `@d1snin`                                         |
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=d1snin&theme=dracula&v=2)](https://github.com/d1snin)
+
+`(c) By Jacob Herd. (https://toxicaven.dev/)`
+[![yes.](https://media.discordapp.net/attachments/835130373209849918/895776013559164938/5pn1ui.png)](https://github.com/d1snin)
+
