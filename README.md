@@ -11,12 +11,12 @@ fun d1snin(): Human = developer {
     languages {
       language {
         name = "Kotlin"
-        experienceYears = 0.5d
+        experienceYears = 0.5
       }
 
       language {
         name = "Java"
-        experienceYears = 1.0d
+        experienceYears = 1.0
       }
     }
 
@@ -30,7 +30,7 @@ fun d1snin(): Human = developer {
           "security",
           "cloud"
         )
-        experienceYears = 0.2d
+        experienceYears = 0.2
       }
     }
   }
