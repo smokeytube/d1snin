@@ -1,11 +1,63 @@
-Hello, please use the following services to contact me.
+```kotlin
+@Bean
+fun d1snin(): Human = developer {
+  general {
+    gender = Gender.MALE
+    name = "Mikhail Koshkin"
+    age = 15
+  }
 
-| Service                           | Address                                             |
-|-----------------------------------|-----------------------------------------------------|
-| `d1scord`                         | `d1snin#3007`                                     |
-| `e-mail`                          | `~@d1s.uno` or `~@d1snin.fun` or `d1snin@aol.com` |
-| `slack-connect`                   | `d1snin@aol.com`                                  |
-| `telegram (the fastest response)` | `@d1snin`                                         |
+  interests {
+    languages {
+      language {
+        name = "Kotlin"
+        experienceYears = 0.5
+      }
+
+      language {
+        name = "Java"
+        experienceYears = 1
+      }
+    }
+
+    frameworks {
+      framework {
+        name = "Spring Framework"
+        modules = listOf(
+          "core",
+          "data",
+          "web",
+          "security",
+          "cloud"
+        )
+        experienceYears = 0.2
+      }
+    }
+  }
+
+  contacts {
+    contact {
+      service = "discord"
+      address = "d1snin#3007"
+    }
+
+    contact {
+      service = "e-mail"
+      address = listOf("~", "@", "d1s.uno").joinToString()
+    }
+
+    contact {
+      service = "slack-connect"
+      address = "d1snin@aol.com"
+    }
+
+    contact {
+      service = "telegram"
+      address = "@d1snin"
+    }
+  }
+}
+```
 
 [![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=d1snin&theme=dracula&v=2)](https://github.com/d1snin)
 
