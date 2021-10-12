@@ -7,7 +7,7 @@ fun d1snin(): Human = developer {
     age = 15
   }
 
-  interests {
+  knowledge {
     languages {
       language {
         name = "Kotlin"
