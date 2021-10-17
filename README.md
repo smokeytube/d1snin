@@ -2,7 +2,6 @@
 @Bean
 fun d1snin(): Human = developer {
     general {
-        gender = Gender.MALE
         name = "Mikhail Koshkin"
         age = 15
     }
@@ -63,13 +62,8 @@ annotation class DeveloperDslMarker
 
 @DeveloperDslMarker
 open class Human {
-    lateinit var gender: Gender
     lateinit var name: String
     var age by Delegates.notNull<Int>()
-}
-
-enum class Gender {
-    MALE, FEMALE
 }
 
 @DeveloperDslMarker
