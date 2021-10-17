@@ -69,7 +69,7 @@ open class Human {
 }
 
 enum class Gender {
-    MALE, WOMAN
+    MALE, FEMALE
 }
 
 @DeveloperDslMarker
